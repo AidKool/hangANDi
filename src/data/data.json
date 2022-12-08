@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Amy Hollis",
+		"title": "Disnerd",
+		"image": "https://ca.slack-edge.com/E0268G5LYLC-U049NCAUPB3-1121ca2ad274-512",
+		"job": "Associate Product Developer",
+		"hint": "🏰🤓"
+	},
+	{
+		"name": "Fahra Akhlaq",
+		"title": "Tooth Fairy",
+		"image": "https://ca.slack-edge.com/E0268G5LYLC-U049354S03Y-c666d58376e3-512",
+		"job": "Associate Product Developer",
+		"hint": "🦷🧚🏼"
+	},
+	{
+		"name": "Jordi Lanau",
+		"title": "Full Time Geek",
+		"image": "https://ca.slack-edge.com/E0268G5LYLC-U049ZDZ89BJ-465092e4d372-512",
+		"job": "Associate Poduct Developer",
+		"hint": "🌕⏱🤓"
+	},
+	{
+		"name": "Lucy Upot",
+		"title": "Sewing Bee",
+		"image": "https://ca.slack-edge.com/E0268G5LYLC-U0496QF1VD3-2d0628ba2f9d-512",
+		"job": "Associate UX Designer",
+		"hint": "🧵🐝"
+	},
+	{
+		"name": "Janice O'Toole",
+		"title": "Espresso Martini Architect",
+		"image": "https://ca.slack-edge.com/E0268G5LYLC-U048V6Z9CQP-0b4d4323721a-512",
+		"job": "Associate Product Analyst",
+		"hint": "☕️🍸📐"
+	},
+	{
+		"name": "Matt Halewood",
+		"title": "Super Dad",
+		"image": "https://ca.slack-edge.com/E0268G5LYLC-U048V6YS3K9-d7b9666547f1-512",
+		"job": "Associate Poduct Developer",
+		"hint": "🦸👨‍👧"
+	}
+]

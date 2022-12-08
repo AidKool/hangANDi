@@ -1,9 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import PeopleList from './components/PeopleList';
 
 function App() {
 	return (
 		<div className="App">
-			<h1>Hello World</h1>
+			<PeopleList />
 		</div>
 	);
 }
